@@ -1,0 +1,20 @@
+Analysis for MaxInheritanceTree
+==================================================
+
+Analysis for MaxInheritanceTree in JUnit 5.11.4:
+Median: 1.00 (where 50% of the scores fall between 1.00 and 1.00)
+Smallest value: 1.0, Largest value: 5.0
+
+Analysis for MaxInheritanceTree in JUnit 5.12.0:
+Median: 1.00 (where 50% of the scores fall between 1.00 and 1.00)
+Smallest value: 1.0, Largest value: 5.0
+
+Analysis for MaxInheritanceTree in JUnit 5.12.1:
+Median: 1.00 (where 50% of the scores fall between 1.00 and 1.00)
+Smallest value: 1.0, Largest value: 5.0
+
+Summary Statistics Comparison:
+        5.11.4  5.12.0  5.12.1
+Median     1.0     1.0     1.0
+Min        1.0     1.0     1.0
+Max        5.0     5.0     5.0

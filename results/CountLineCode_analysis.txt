@@ -1,0 +1,20 @@
+Analysis for CountLineCode
+==================================================
+
+Analysis for CountLineCode in JUnit 5.11.4:
+Median: 16.00 (where 50% of the scores fall between 7.00 and 45.00)
+Smallest value: 2.0, Largest value: 1025.0
+
+Analysis for CountLineCode in JUnit 5.12.0:
+Median: 17.00 (where 50% of the scores fall between 7.00 and 49.00)
+Smallest value: 2.0, Largest value: 1025.0
+
+Analysis for CountLineCode in JUnit 5.12.1:
+Median: 17.00 (where 50% of the scores fall between 7.00 and 49.00)
+Smallest value: 2.0, Largest value: 1025.0
+
+Summary Statistics Comparison:
+        5.11.4  5.12.0  5.12.1
+Median    16.0    17.0    17.0
+Min        2.0     2.0     2.0
+Max     1025.0  1025.0  1025.0

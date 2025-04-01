@@ -1,0 +1,52 @@
+Top 5 methods by SLOC (CountLineCode)
+
+JUnit 5.11.4:
+                                                                                                                                        Name  CountLineCode
+0                                                    org.junit.jupiter.engine.TestInstanceLifecycleTests.instancePerClassWithNestedTestClass          109.0
+1                 org.junit.jupiter.engine.TestInstanceLifecycleTests.instancePerMethodOnOuterTestClassWithInstancePerClassOnNestedTestClass          105.0
+2                                                   org.junit.jupiter.engine.TestInstanceLifecycleTests.instancePerMethodWithNestedTestClass          105.0
+3                                          org.junit.jupiter.params.ParameterizedTestExtensionTests.getExtensionContextReturningSingleMethod           80.0
+4  org.junit.jupiter.engine.extension.AutoCloseTests.allFieldsAreClosedIfAnyFieldThrowsAnExceptionWithNestedTestClassesWithInstancePerMethod           73.0
+
+JUnit 5.12.0:
+                                                                                                                         Name  CountLineCode
+0                                     org.junit.jupiter.engine.TestInstanceLifecycleTests.instancePerClassWithNestedTestClass          109.0
+1  org.junit.jupiter.engine.TestInstanceLifecycleTests.instancePerMethodOnOuterTestClassWithInstancePerClassOnNestedTestClass          105.0
+2                                    org.junit.jupiter.engine.TestInstanceLifecycleTests.instancePerMethodWithNestedTestClass          105.0
+3                                 org.junit.jupiter.engine.extension.TempDirectory.CloseablePath.deleteAllFilesAndDirectories          102.0
+4                           org.junit.jupiter.params.ParameterizedTestExtensionTests.getExtensionContextReturningSingleMethod           98.0
+
+JUnit 5.12.1:
+                                                                                                                         Name  CountLineCode
+0                                     org.junit.jupiter.engine.TestInstanceLifecycleTests.instancePerClassWithNestedTestClass          109.0
+1                                    org.junit.jupiter.engine.TestInstanceLifecycleTests.instancePerMethodWithNestedTestClass          105.0
+2  org.junit.jupiter.engine.TestInstanceLifecycleTests.instancePerMethodOnOuterTestClassWithInstancePerClassOnNestedTestClass          105.0
+3                                 org.junit.jupiter.engine.extension.TempDirectory.CloseablePath.deleteAllFilesAndDirectories          102.0
+4                           org.junit.jupiter.params.ParameterizedTestExtensionTests.getExtensionContextReturningSingleMethod          102.0
+
+
+Top 5 methods by EC (Essential)
+
+JUnit 5.11.4:
+                                                                                                   Name  Essential
+0  org.junit.platform.engine.support.discovery.EngineDiscoveryRequestResolution.resolve.(lambda_expr_1)       13.0
+1                                              org.junit.platform.commons.util.CollectionUtils.toStream       13.0
+2                                          org.junit.platform.commons.util.StringUtils.nullSafeToString       13.0
+3                             org.junit.jupiter.params.provider.EmptyArgumentsProvider.provideArguments       13.0
+4                                        org.junit.platform.commons.util.AnnotationUtils.findAnnotation       11.0
+
+JUnit 5.12.0:
+                                                                                                   Name  Essential
+0  org.junit.platform.engine.support.discovery.EngineDiscoveryRequestResolution.resolve.(lambda_expr_1)       13.0
+1                                              org.junit.platform.commons.util.CollectionUtils.toStream       13.0
+2                                          org.junit.platform.commons.util.StringUtils.nullSafeToString       13.0
+3                             org.junit.jupiter.params.provider.EmptyArgumentsProvider.provideArguments       13.0
+4                                        org.junit.platform.commons.util.AnnotationUtils.findAnnotation       11.0
+
+JUnit 5.12.1:
+                                                                                                   Name  Essential
+0                                              org.junit.platform.commons.util.CollectionUtils.toStream       13.0
+1                             org.junit.jupiter.params.provider.EmptyArgumentsProvider.provideArguments       13.0
+2                                          org.junit.platform.commons.util.StringUtils.nullSafeToString       13.0
+3  org.junit.platform.engine.support.discovery.EngineDiscoveryRequestResolution.resolve.(lambda_expr_1)       13.0
+4                                        org.junit.platform.commons.util.AnnotationUtils.findAnnotation       11.0

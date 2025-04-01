@@ -1,0 +1,20 @@
+Analysis for PercentLackOfCohesion
+==================================================
+
+Analysis for PercentLackOfCohesion in JUnit 5.11.4:
+Median: 0.00 (where 50% of the scores fall between 0.00 and 44.00)
+Smallest value: 0.0, Largest value: 100.0
+
+Analysis for PercentLackOfCohesion in JUnit 5.12.0:
+Median: 0.00 (where 50% of the scores fall between 0.00 and 45.00)
+Smallest value: 0.0, Largest value: 100.0
+
+Analysis for PercentLackOfCohesion in JUnit 5.12.1:
+Median: 0.00 (where 50% of the scores fall between 0.00 and 45.00)
+Smallest value: 0.0, Largest value: 100.0
+
+Summary Statistics Comparison:
+        5.11.4  5.12.0  5.12.1
+Median     0.0     0.0     0.0
+Min        0.0     0.0     0.0
+Max      100.0   100.0   100.0
