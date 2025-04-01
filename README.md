@@ -12,7 +12,7 @@ https://docs.astral.sh/uv/getting-started/installation/
 
 `uv venv`
 
-## Install Dependancies
+## Install Dependencies
 
 `uv sync`
 
